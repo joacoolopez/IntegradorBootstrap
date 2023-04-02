@@ -1,0 +1,16 @@
+#codoacodoimagen{
+    width: 20%;
+    height: 20%;
+}
+
+#comprartickets{
+    color: green;
+}
+
+.ba1{
+    background-image: url(imagenes/ba1.jpg);
+    height: 70vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
