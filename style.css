@@ -1,3 +1,5 @@
+
+
 #codoacodoimagen{
     width: 20%;
     height: 20%;
@@ -8,9 +10,35 @@
 }
 
 .ba1{
-    background-image: url(imagenes/ba1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagenes/ba1.jpg");
     height: 70vh;
     color: white;
-    justify-content: center;
-    align-items: center;
+    
+
+}
+
+.oradores{
+    background-color: antiquewhite;
+    height: 80vh;
+
+}
+
+.titulooradores{
+    display: flex;
+}
+
+
+.honolulu{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imagenes/ba1.jpg");
+    height: 70vh;
+}
+
+footer{
+    background-color: #1D4054;
+    color: white;
+}
+
+.octubre{
+    background-color: #353A40;
+    color: white;
 }
