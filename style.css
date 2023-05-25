@@ -42,3 +42,12 @@ footer{
     background-color: #353A40;
     color: white;
 }
+
+.tarjetasTicket{
+    margin-top: 20px;
+}
+
+.linea {
+    display: inline-block;
+    text-align: center !important;
+}
